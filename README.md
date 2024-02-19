@@ -7,7 +7,7 @@ Forecasting fair rental price prophets for real estate market.
 
 
 Tiny project, wich shows how to:
-1. Wash data of all outliers, data gaps, filling errors (human factor errors:)
+1. Wash data of all outliers, data gaps, filling errors (human factor specially:)
 
 ![image](https://user-images.githubusercontent.com/110884096/236757790-110268f9-119c-4091-afcc-c2724bbaa9ed.png)
 
